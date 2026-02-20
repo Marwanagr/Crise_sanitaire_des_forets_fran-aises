@@ -1,0 +1,14 @@
+{
+  "name": "c3f1c485a8669975",
+  "main": "c3f1c485a8669975@358.js",
+  "version": "358.0.0",
+  "homepage": "https://observablehq.com/d/c3f1c485a8669975",
+  "author": {
+    "name": "ECL",
+    "url": "https://observablehq.com/@ecl4"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
