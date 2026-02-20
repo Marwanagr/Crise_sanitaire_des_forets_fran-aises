@@ -5,7 +5,7 @@ md`# Crise sanitaire des forêts françaises
 )}
 
 function _workbook(FileAttachment){return(
-d3.csv("Récolte_de_bois_par_région_de_provenance_en_2023.xlsx"))}
+d3.csv("Récolte_de_bois_par_région_de_provenance_en_2023.csv"))}
 
 function _sheet(workbook){return(
 workbook.sheet(0, { headers: true })
